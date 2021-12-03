@@ -1,2 +1,5 @@
 # File-IO
-A project primarly demonstrating the use of File input and output in C++
+A project primarily demonstrating the use of File input and output in C++
+
+#To run
+Compile and run
